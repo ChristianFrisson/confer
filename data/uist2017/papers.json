@@ -1132,7 +1132,7 @@
     "abstract": "We present a low cost method to measure and characterize the end-to-end latency when using a touch system (tap latency) or an input device equipped with a physical button. Our method relies on a vibration sensor attached to a finger and a photo-diode to detect the screen response. Both are connected to a micro-controller connected to a host computer using a low-latency USB communication protocol in order to combine software and hardware probes to help determine where the latency comes from. We present the operating principle of our method before investigating the main sources of latency in several systems. We show that most of the latency originates from the display side. Our method can help application designers characterize and troubleshoot latency on a wide range of interactive systems.", 
     "authors": [
       {
-        "name": "G\u00e9Ry  Casiez, Universit\u00e9 de Lille"
+        "name": "G\u00e9ry  Casiez, Universit\u00e9 de Lille"
       }, 
       {
         "name": "Thomas  Pietrzak, Univ. Lille"
@@ -1141,7 +1141,7 @@
         "name": "Damien  Marchal, Universit\u00e9 de Lille"
       }, 
       {
-        "name": "S\u00e9Bastien  Poulmane, Inria"
+        "name": "S\u00e9bastien  Poulmane, Inria"
       }, 
       {
         "name": "Matthieu  Falce, Mathieu Falce Consulting"
@@ -1548,7 +1548,7 @@
         "name": "Sylvain  Malacria, Inria"
       }, 
       {
-        "name": "G\u00e9Ry  Casiez, Universit\u00e9 de Lille"
+        "name": "G\u00e9ry  Casiez, Universit\u00e9 de Lille"
       }
     ], 
     "award": false, 
